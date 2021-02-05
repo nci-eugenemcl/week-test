@@ -1,6 +1,6 @@
 /*
  *Teams.java
- *4/2/21
+ *5/2/2021 em
  *@author F.Sheridan
  */
 
@@ -10,7 +10,7 @@
 	 public static void main(String args[]){
 		 //Declare variables
 		 int numOfStudents, numOfTeams;
-		 final int TEAMSIZE = 4;
+		 final int TEAMSIZE = 3;
 
 		 //declare objects
 		 Scanner keyboard;
